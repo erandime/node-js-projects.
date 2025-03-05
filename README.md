@@ -6,4 +6,5 @@
 4) API CRUD Operations – Perform GET, POST, PUT, and DELETE requests to Secrets API using Axios and REST API principles.
 5) Build API from scratch - A simple Node.js and Express-based REST API for managing jokes, allowing users to retrieve, add, update, filter, and delete jokes.
 6) Build API for a client-side server - A RESTful API for managing blog posts, with features to get, create, update, and delete posts.
-7) Family Travel Tracker - Visualize the countries visited by each family member, allowing to add new members, add visited countries of each member, view total, and explore their shared travel history using Node.js, Express.js, and a PostgreSQL database.
+7) Family Travel Tracker - Visualize the countries visited by each family member, add new members, add visited countries of each member, view total bumber of countries visited by each member, and explore their shared travel history. Used Node.js, Express.js, API CRUD operations and Data Persistence through PostgreSQL database.
+8) To-do List - A simple task management app that allows users to add, update, and delete tasks, storing them in a PostgreSQL database using Node.js, Express.js, and EJS.
